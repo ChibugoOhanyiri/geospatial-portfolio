@@ -1,0 +1,3 @@
+# Generated files never go on GitHub (each project keeps its own outputs folder here)
+*-outputs/
+.DS_Store

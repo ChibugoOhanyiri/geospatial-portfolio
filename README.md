@@ -4,11 +4,11 @@ Chibugo Ohanyiri's geospatial, remote-sensing and Earth-observation projects. Ea
 
 | Project | What it does | Status |
 |---|---|---|
-| [stac-environmental-processor](https://github.com/ChibugoOhanyiri/stac-environmental-processor) | A reusable tool that finds Sentinel-1 radar images for a reported flood, prepares them the same way every time, and measures surface change with stated uncertainty. First case: the Lagos flood of 30 June 2026 (Lekki). | All 8 milestones built (Nov 2026); final review in progress. Private until its release check. |
+| [stac-environmental-processor](https://github.com/ChibugoOhanyiri/stac-environmental-processor) | A reusable tool that finds Sentinel-1 radar images for a reported flood, prepares them the same way every time, and measures surface change with stated uncertainty. First case: the Lagos flood of 30 June 2026 (Lekki). | All 8 milestones built (Nov 2026). **[Live map](https://chibugoohanyiri.github.io/stac-environmental-processor/)** · [Report](https://github.com/ChibugoOhanyiri/stac-environmental-processor/blob/main/REPORT.md) |
 | YOLO project | Computer-vision project | Planned, not started |
 | 3D / digital-twin project | 3D geospatial project | Planned, not started |
 
-Projects marked private show a link that only the owner can open until they are made public.
+Each linked project is public. Sub-repositories live under `published/`.
 
 ## Working with this repository
 Clone everything at once:

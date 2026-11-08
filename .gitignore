@@ -2,4 +2,4 @@
 *-outputs/
 .DS_Store
 # Private working copies (their public versions live under published/)
-stac-environmental-processor/
+/stac-environmental-processor/

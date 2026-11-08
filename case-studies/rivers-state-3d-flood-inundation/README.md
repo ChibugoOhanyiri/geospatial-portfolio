@@ -2,6 +2,8 @@
 
 **Individual project · November 2023 · 🏆 Second runner-up, GIS Day Nigeria StoryMap Competition (national)**
 
+**[Open the StoryMap (ArcGIS)](https://arcg.is/zP089)**
+
 ## The question
 Which parts of Rivers State sit low enough to be exposed if water levels rise, and how can that be shown so non-specialists understand it at a glance?
 

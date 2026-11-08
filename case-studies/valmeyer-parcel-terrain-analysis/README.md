@@ -2,6 +2,8 @@
 
 **Personal project · 2024**
 
+**[Open the interactive web map (ArcGIS)](https://www.arcgis.com/apps/mapviewer/index.html?webmap=88662aad36624a63875dd051896cfb3f&extent=-90.3418,38.2876,-90.2526,38.3233)**
+
 ## The question
 Valmeyer is a town that moved to higher ground after flooding. How do its **original and relocated sites** compare in elevation and slope, and what does that mean for access in an emergency?
 
